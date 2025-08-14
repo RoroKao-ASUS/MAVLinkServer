@@ -1,0 +1,4 @@
+fastcrc==0.3.2
+lxml==6.0.0
+pymavlink==2.4.49
+websockets==15.0.1
